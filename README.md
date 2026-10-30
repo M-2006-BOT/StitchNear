@@ -1,3 +1,4 @@
+# StitchNear
 # StitchNear: tailoring platform
 
 Customers design a garment, compare nearby tailors (price, rating, specialty, availability, ready date),
